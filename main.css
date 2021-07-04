@@ -1,0 +1,154 @@
+
+* {
+    padding: 0px;
+    margin: 0px;
+} 
+
+
+
+h1 {
+
+    margin-bottom: 0px;
+        text-align: center;
+        background-color: forestgreen;
+
+        color: orangered;
+    }
+
+    .india {
+        color: white
+    }
+
+    .nationalflag{
+        width: 35%;
+        margin-top: 0px;
+        float: right;
+        
+
+    }
+
+
+h2 {
+    font-family: fantasy
+
+}
+
+.headerandfacts{
+    background-color: burlywood;
+    margin-top: 0px;
+    height: 313px;
+
+    
+}
+.facts {
+    color: orangered;
+
+}
+
+.text-color {
+    color: white;
+    margin-left: 25px;
+}
+
+/*
+.sacredcow {
+    width: 25%;
+    height: auto;
+    margin-bottom: 0px;
+    
+}
+
+.modiwithcow {
+    margin-bottom: 0px;
+    float:left
+}
+
+
+.wettest { 
+    width: 30%;
+    height: auto;
+    margin-top: 0px;
+    
+    
+}
+
+.weather {
+    margin-top: 0px;
+    
+}
+*/
+
+.column {
+  float: left;
+  /*width: 33.33%;*/
+width: 50%;    
+  padding: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+} 
+
+
+.sacredcow, .wettest {
+    width: 100%;
+    height: 500px;
+    margin-bottom: 0px;
+}
+
+.bridge {
+    width: 50%;
+    float: left;
+    margin-top: 0px;
+    padding: 0px;
+    }
+
+.chenabbridge {
+    padding: 0px;
+    margin: 0px;
+}
+    a:hover {
+        color:forestgreen;
+    } 
+a{
+    color:orangered;
+}
+
+.end-text {
+    margin-left: 650px;
+}
+
+.author-image {
+	border-radius: 50%;
+	margin-right: 25px;
+    width: 100px;
+    height:100px;
+    margin-left: 650px;
+    margin-bottom: 0px;
+}
+
+} 
+.Author-page {
+    margin-bottom: 50p;
+    position: relative;
+    margin-left: 800px;
+    
+}
+   
+.author-names{
+    position: absolute;
+    right:350px;
+    top:1300px;
+  
+    
+}
+.author-title{
+        margin-left: 650px;
+
+    
+}
+
